@@ -26,7 +26,7 @@ Make styled tabs in Angular 2.
 ## About
 I've created a series of challenges, and feel free to add your own. Challenges include javascript setup, css styles and comments to explain and help.
 
-The documents are fully editable. **Fork your solution**, complete or incomplete, and post the link below the challenge. The key to learning is to struggle, but struggling too much doesn't do any good. Solutions can help. It can also be helpful to see how different people reach different solutions.
+The documents are fully editable. **Fork your solution**, complete or incomplete, and **post the link to your solution below the challenge**. The key to learning is to struggle, but struggling too much doesn't do any good. These solutions can help. It can also be helpful to see how different people reach different results.
 
 Suggested solution posting format:
 ```

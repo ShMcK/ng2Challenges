@@ -1,6 +1,6 @@
 Challenges to help you learn and understand the evolving Angular2 Framework.
 
-I've found one of the best ways to learn a new framework is by trying out lots of basic demos. 
+I've found one of the best ways to struggle through a new framework is by trying out lots of basic demos, and looking at how other coders approach similar situations. Help contribute.
 
 ## Challenges
 
@@ -16,6 +16,9 @@ Create a dynamic star rater.
 
 ### [Chat](https://github.com/ShMcK/ng2Challenges/wiki/Chat)
 Create a chat client. 
+
+### [Tabs](https://github.com/ShMcK/ng2Challenges/wiki/Tabs)
+Make styled tabs in Angular 2.
 
 
 ## About

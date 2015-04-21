@@ -2,7 +2,7 @@
 
 Challenges to help you learn and understand the evolving Angular2 Framework.
 
-I've found one of the best ways to struggle through a new framework is by trying out lots of basic demos, and looking at how other coders approach similar situations. Help contribute.
+I've found one of the best ways to struggle through a new framework is by trying out lots of basic demos, and looking at how other coders approach similar situations. Help contribute. Create your own challenges by adding a wiki page.
 
 ## Challenges
 

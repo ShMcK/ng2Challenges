@@ -16,6 +16,8 @@ Comments
 
 ## Challenges
 
+### [TodoMVC TodoList](https://github.com/ShMcK/ng2Challenges/wiki/TodoMVC)
+Create the iconic TodoMVC Todo List in Angular 2.
 
 ### [TweetBox](https://github.com/ShMcK/ng2Challenges/wiki/TweetBox)
 ![TweetBox](/images/TweetBoxSetup.png?raw=true "TweetBox Setup")

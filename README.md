@@ -25,3 +25,6 @@ Create a working TweetBox.
 ### [Star Rater](https://github.com/ShMcK/ng2Challenges/wiki/Star-Rater)
 ★★★☆☆
 Create a dynamic star rater.
+
+### [Chat](https://github.com/ShMcK/ng2Challenges/wiki/Chat)
+Create a chat client. 

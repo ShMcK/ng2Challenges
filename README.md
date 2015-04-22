@@ -31,6 +31,6 @@ The documents are fully editable. **Fork your solution**, complete or incomplete
 Suggested solution posting format:
 ```
 [Angular2Version](http://plnkr.co/edit/LINK)
-Name / @twitter
+YYYY-MM-DD Name/@twitter
 Comments
 ```

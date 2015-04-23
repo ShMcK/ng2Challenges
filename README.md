@@ -28,6 +28,9 @@ Build a login form using Angular 2 Forms
 ### [Search Filter](https://github.com/ShMcK/ng2Challenges/wiki/Search-Filter)
 Build a real-time search filter.
 
+### [Hierarchical Family Tree](https://github.com/ShMcK/ng2Challenges/wiki/Hierarchical-Family-Tree)
+Build a model to understand how Injectors & hierarchy work in Angular 2 (@Ancestor, @Parent, @Children, @Descendants) .
+
 ## About
 I've created a series of challenges, and feel free to add your own. Challenges include javascript setup, css styles and comments to explain and help.
 

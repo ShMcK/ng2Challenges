@@ -20,11 +20,13 @@ Create a dynamic star rater.
 Create a chat client. 
 
 ### [Tabs](https://github.com/ShMcK/ng2Challenges/wiki/Tabs)
-Make styled tabs in Angular 2.
+Make styled tabs.
 
 ### [Login Form](https://github.com/ShMcK/ng2Challenges/wiki/Login-Form)
 Build a login form using Angular 2 Forms
 
+### [Search Filter](https://github.com/ShMcK/ng2Challenges/wiki/Search-Filter)
+Build a real-time search filter.
 
 ## About
 I've created a series of challenges, and feel free to add your own. Challenges include javascript setup, css styles and comments to explain and help.

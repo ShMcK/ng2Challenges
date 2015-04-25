@@ -1,6 +1,6 @@
 ![ngChallenges](ng2Challenges.png?raw=true)
 
-Challenges to help you learn and understand the evolving Angular2 Framework.
+#Coding Projects Wiki for Angular2
 
 I've found one of the best ways to struggle through a new framework is by trying out lots of basic demos, and looking at how other coders approach similar situations. Help contribute. Create your own challenges by adding a wiki page.
 
@@ -29,7 +29,7 @@ Build a login form using Angular 2 Forms
 Build a real-time search filter.
 
 ### [Hierarchical Family Tree](https://github.com/ShMcK/ng2Challenges/wiki/Family-Tree)
-Build a model to understand how Injectors & hierarchy work in Angular 2 (@Ancestor, @Parent, @Children, @Descendants) .
+Build a model to understand how Injectors & hierarchy work in Angular 2 (@Ancestor, @Parent, @Children, @Descendants).
 
 ## About
 I've created a series of challenges, and feel free to add your own. Challenges include javascript setup, css styles and comments to explain and help.

@@ -4,7 +4,7 @@
 
 Use Plunker to create shareable demo projects in Angular 2. 
 
-Current: [alpha-23 plunk](http://plnkr.co/edit/wQZzIKpDKqmrTEk104bk)
+Current: [alpha-23 plunk](http://plnkr.co/edit/vzytPu?p=preview)
 
 I've found one of the best ways to struggle through a new framework is by trying out lots of basic demos, and looking at how other coders approach similar situations. Help contribute. Create your own challenges by adding a wiki page.
 
